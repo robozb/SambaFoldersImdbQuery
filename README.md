@@ -5,9 +5,14 @@ Main file:
 ----------
 samba_imdb_query.py
 
-Install:
---------
+Install(Win10):
+---------------
+[![Video]()](https://www.youtube.com/watch?v=bHL-sWNtW5c)
 https://www.youtube.com/watch?v=bHL-sWNtW5c
+
+python -m venv .
+ .\Scripts\activate
+ pip install -r requirements.txt
 
 Input folders form on samba share:
 ----------------------------------
