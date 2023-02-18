@@ -7,8 +7,7 @@ samba_imdb_query.py
 
 Install(Win10):
 ---------------
-[![Video]()](https://www.youtube.com/watch?v=bHL-sWNtW5c)
-https://www.youtube.com/watch?v=bHL-sWNtW5c
+https://user-images.githubusercontent.com/8656998/219881856-5e0b8ee0-5024-4a53-b489-5da5067e5329.mp4
 
 ```
 python -m venv .
