@@ -11,9 +11,9 @@ https://user-images.githubusercontent.com/8656998/219881856-5e0b8ee0-5024-4a53-b
 
 ```
 python -m venv .
- .\Scripts\activate
- pip install -r requirements.txt
- ```
+.\Scripts\activate
+pip install -r requirements.txt
+```
 
 Input folders form on samba share:
 ----------------------------------
