@@ -5,6 +5,10 @@ Main file:
 ----------
 samba_imdb_query.py
 
+Install:
+--------
+https://www.youtube.com/watch?v=bHL-sWNtW5c
+
 Input folders form on samba share:
 ----------------------------------
 ```
