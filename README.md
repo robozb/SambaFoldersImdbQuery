@@ -8,11 +8,11 @@ samba_imdb_query.py
 Input folders form on samba share:
 ----------------------------------
 ```
-movie-name1   2012
-movie-name2   2014 
-movie-name3   2022
-movie-name... 2011 
-movie-namen   2011 
+movie-name_1   2012
+movie-name_2   2014 
+movie-name_3   2022
+movie-name...  2011 
+movie-name_n   2011 
 
 Bloodlust Zombies 2011
 Checkmate 1973
